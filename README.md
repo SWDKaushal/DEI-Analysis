@@ -6,10 +6,9 @@ The employees were asked to share their opinions on the diversity culture of
 the company. Below are some of my observations.
 
 ## Analysis
-I started off my analysis by calculating a Top two box score for the company
-overall, which turned out to be 72.32%. Which indicates that more than more
-than 70% of the employees perceive the company’s diversity culture in a
-positive way. However as we will see further in the report that there are
+I started my analysis by calculating a Top two box score for the company
+overall, which turned out to be 72.32%. This indicates that more
+than 70% of the employees perceive the company’s diversity culture positively. However, as we will see further in the report there are
 improvements needed in some areas.
 
 If we look at the score for each question asked we see the results below.
@@ -31,30 +30,30 @@ opportunities to advance their careers at COMPANY: 67.47%
 - The process for career advancement/promotion is transparent to all employees:
 43.84%
   
-1. The results clearly indicate that more than half of the employees do not
+1. The results indicate that more than half of the employees do not
 feel that their career advancement/promotion is a transparent process.
 Similarly, around 40% of employees do not perceive that the company
 values diversity and people from all backgrounds have equitable
-opportunities to progress their career. We will see more details on this in
+opportunities to progress in their careers. We will see more details on this in
 our statistical test.
 2. As you can see from the table below women are less agreeable than
-men overall in this survey. It's not a significant difference but still
-something to take note here.
+men overall in this survey. It's not a significant difference but it's still
+something to take note of here.
 3. In my exploratory data analysis I found that the distribution of the roles
 and their responses was not normal and therefore I decided to go for
 Kruskal-Wallis test. In the Statistical test section, The task was to find
 significant differences between the subgroups of Race/Ethnicity and
 Roles.
-For the first part In my exploratory data analysis I found that the
+For the first part In my exploratory data analysis, I found that the
 distribution of the roles and their responses was not normal and
-therefore I decided to go for Kruskal-Wallis test. The chi square test is a
-more popular option but given the dataset with many categories and
+therefore I decided to go for the Kruskal-Wallis test. The chi-square test is a
+more popular option given the dataset with many categories and
 fulfilling assumptions for the Kruskal-Wallis test. It was the best option.
 Chi-square test of independence described in the previous response
 can help determine if there's a significant association between the
 employee's role and their responses. However, it doesn't directly
 compare specific roles to each other.
-In my test results I did not find any statistically significant differences in
+In my test results, I did not find any statistically significant differences in
 responses among the different roles for any of the questions. In all
 cases, the p-value was greater than 0.05, which is the common
 threshold for determining statistical significance. Therefore, we can not
@@ -64,9 +63,9 @@ between different roles and their survey responses.
 Indigenous and People of Color. Again I used the Kruskal-Wallis test for
 this scenario.
 Note: There is not enough data for Black people in the provided dataset,
-therefore I decided to not include them in the test for more accurate
+therefore I decided to not include them in the test for a more accurate
 results.
-In many instances the p-value less than 0.05 suggests a significant
+In many instances, the p-value less than 0.05 suggests a significant
 difference between the groups. The smaller the p-value, the stronger
 the evidence that we should reject the null hypothesis.
 - "COMPANY as an organization values diversity": p = 0.00496
@@ -77,9 +76,9 @@ the evidence that we should reject the null hypothesis.
 - "People from all backgrounds and with a range of identities have
 equitable opportunities to advance their careers at COMPANY": p =
 0.02607
-According to these results there is an indication that some employees with
-certain backgrounds feel that company doesn't value diversity, the leadership
+According to these results, there is an indication that some employees with
+certain backgrounds feel that the company doesn't value diversity, the leadership
 does not fully understand the importance of diversity thus resulting in
 preferential treatment to some.
 5. Many employees do not feel comfortable sharing all parts of their
-identity including their Sexual Identities, Ethnicity and gender
+identity including their Sexual Identity, Ethnicity and gender
