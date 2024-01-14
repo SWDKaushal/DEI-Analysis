@@ -39,7 +39,6 @@ our statistical test.
 2. As you can see from the table women are less agreeable than
 men overall in this survey. It's not a significant difference but it's still
 something to take note of here.
-
 3.In the Statistical test section, The task was to find
 significant differences between the subgroups of Race/Ethnicity and
 Roles. For the first part In my exploratory data analysis, I found that the
