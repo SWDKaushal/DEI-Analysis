@@ -36,7 +36,7 @@ Similarly, around 40% of employees do not perceive that the company
 values diversity and people from all backgrounds have equitable
 opportunities to progress in their careers. We will see more details on this in
 our statistical test.
-2. As you can see from the table below women are less agreeable than
+2. As you can see from the table women are less agreeable than
 men overall in this survey. It's not a significant difference but it's still
 something to take note of here.
 3. In my exploratory data analysis I found that the distribution of the roles
