@@ -39,12 +39,9 @@ our statistical test.
 2. As you can see from the table women are less agreeable than
 men overall in this survey. It's not a significant difference but it's still
 something to take note of here.
-3. In my exploratory data analysis I found that the distribution of the roles
-and their responses was not normal and therefore I decided to go for
-Kruskal-Wallis test. In the Statistical test section, The task was to find
+3.In the Statistical test section, The task was to find
 significant differences between the subgroups of Race/Ethnicity and
-Roles.
-For the first part In my exploratory data analysis, I found that the
+Roles. For the first part In my exploratory data analysis, I found that the
 distribution of the roles and their responses was not normal and
 therefore I decided to go for the Kruskal-Wallis test. The chi-square test is a
 more popular option given the dataset with many categories and
